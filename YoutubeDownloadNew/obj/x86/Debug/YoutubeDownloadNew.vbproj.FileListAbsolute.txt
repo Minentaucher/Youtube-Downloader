@@ -1,0 +1,13 @@
+C:\Users\Validati0n\documents\visual studio 2010\Projects\YoutubeDownloadNew\YoutubeDownloadNew\bin\Debug\YoutubeDownloadNew.exe.config
+C:\Users\Validati0n\documents\visual studio 2010\Projects\YoutubeDownloadNew\YoutubeDownloadNew\bin\Debug\YoutubeDownloadNew.exe
+C:\Users\Validati0n\documents\visual studio 2010\Projects\YoutubeDownloadNew\YoutubeDownloadNew\bin\Debug\YoutubeDownloadNew.pdb
+C:\Users\Validati0n\documents\visual studio 2010\Projects\YoutubeDownloadNew\YoutubeDownloadNew\bin\Debug\YoutubeDownloadNew.xml
+C:\Users\Validati0n\documents\visual studio 2010\Projects\YoutubeDownloadNew\YoutubeDownloadNew\bin\Debug\dotNetBase.Windows.Forms.dll
+C:\Users\Validati0n\documents\visual studio 2010\Projects\YoutubeDownloadNew\YoutubeDownloadNew\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Validati0n\documents\visual studio 2010\Projects\YoutubeDownloadNew\YoutubeDownloadNew\obj\x86\Debug\YoutubeDownloadNew.Form1.resources
+C:\Users\Validati0n\documents\visual studio 2010\Projects\YoutubeDownloadNew\YoutubeDownloadNew\obj\x86\Debug\YoutubeDownloadNew.Resources.resources
+C:\Users\Validati0n\documents\visual studio 2010\Projects\YoutubeDownloadNew\YoutubeDownloadNew\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Validati0n\documents\visual studio 2010\Projects\YoutubeDownloadNew\YoutubeDownloadNew\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Validati0n\documents\visual studio 2010\Projects\YoutubeDownloadNew\YoutubeDownloadNew\obj\x86\Debug\YoutubeDownloadNew.exe
+C:\Users\Validati0n\documents\visual studio 2010\Projects\YoutubeDownloadNew\YoutubeDownloadNew\obj\x86\Debug\YoutubeDownloadNew.xml
+C:\Users\Validati0n\documents\visual studio 2010\Projects\YoutubeDownloadNew\YoutubeDownloadNew\obj\x86\Debug\YoutubeDownloadNew.pdb
